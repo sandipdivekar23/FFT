@@ -1,0 +1,8 @@
+Due to noice input may chatter (ON and OFF). PLC need standard input.
+
+5 ms filter means input should be stable at least for 5 ms. If input not stable for 5 ms, PLC do not consider that input.
+
+PWM - Pulse with modulation
+
+
+
